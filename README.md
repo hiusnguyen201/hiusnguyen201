@@ -27,21 +27,14 @@
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<table width="100%">
-  <tr width="100%">
-    <td>
-      <p align="center">
-           <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiusnguyen201&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        <img align="center" src="https://streak-stats.demolab.com/?user=hiusnguyen201&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center">        
-         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiusnguyen201&theme=nightowl&layout=pie&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Most Used Languages" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiusnguyen201&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+</p>
+<p align="center">
+   <img style="margin-bottom:20px;display:'inline-block';" align="center" src="https://streak-stats.demolab.com/?user=hiusnguyen201&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiusnguyen201&theme=nightowl&layout=compact&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Most Used Languages" />
+</p>
+
 <br />
 
 <!--Contribution Graph-->
