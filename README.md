@@ -21,7 +21,7 @@
 
 <h2 align="center">🛠 My Skills 🛠</h2> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cs,js,npm,bash,sass,jquery,laravel,java,nodejs,react,redux,tailwind,express,ts,nestjs,jest,nextjs,mongodb,mysql,postgres,sequelize,redis,vscode,postman,vercel,vite)](https://skillicons.dev)
+<p align="center"><img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cs,js,npm,bash,sass,jquery,laravel,java,nodejs,react,redux,tailwind,express,ts,nestjs,jest,nextjs,mongodb,mysql,postgres,sequelize,redis,vscode,postman,vercel,vite" alt="My Skills"/></p>
 <br />
 <br />
 <!--Github stats Table--> 
