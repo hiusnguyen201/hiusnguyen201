@@ -15,8 +15,6 @@
 - 📌 Visit my [Portfolio](https://github.com/hiusnguyen201) for more details about me.
 
 - 📫 How to reach me [hiusnguyen201@gmail.com](mailto:hiusnguyen201@gmail.com)
-
-- ⚡ Fun fact I ❤️ 🎮
   
 
 
