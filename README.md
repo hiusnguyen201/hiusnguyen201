@@ -20,7 +20,7 @@
 
 <h2 align="center">🛠 My Skills 🛠</h2> 
 
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cs,npm,bash,sass,jquery,laravel,java,nodejs,react,redux,tailwind,express,ts,nestjs,jest,nextjs,mongodb,mysql,postgres,sequelize,redis,vscode,postman,vercel,vite,git,discord,nginx" alt="My Skills"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cs,npm,bash,laravel,nodejs,react,redux,tailwind,express,ts,nestjs,jest,nextjs,mongodb,mysql,sequelize,redis,vscode,postman,vercel,vite,git,discord,nginx" alt="My Skills"/></p>
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
