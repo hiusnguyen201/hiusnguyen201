@@ -37,23 +37,23 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   <a href="mailto:hiusnguyen201@gmail.com" target="_blank">
-  <img src="./gmail.png" width=32 height=32 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+  <img src="./gmail.png" width=32 height=32 alt="hiusnguyen201@gmail.com" style="margin-bottom: 5px;" />
   </a>
   
   <a href="https://www.instagram.com/01nmh11" target="_blank">
-  <img src="./instagram.png" width=32 height=32 alt="hiusnguyen201" style="margin-bottom: 5px;" />
+  <img src="./instagram.png" width=32 height=32 alt="hiusnguyen201@gmail.com" style="margin-bottom: 5px;" />
   </a>
   
   <a href="https://www.github.com/hiusnguyen201" target="_blank">
-  <img src="./github.png" width=32 height=32 alt="hiusnguyen201" style="margin-bottom: 5px;" />
+  <img src="./github.png" width=32 height=32 alt="hiusnguyen201@gmail.com" style="margin-bottom: 5px;" />
   </a>
   
   <a href="https://www.linkedin.com/in/nguyễn-minh-hiếu-5728512b6/" target="_blank">
-  <img src="./linkedin.png" width=32 height=32 alt="hiusnguyen201" style="margin-bottom: 5px;" />
+  <img src="./linkedin.png" width=32 height=32 alt="hiusnguyen201@gmail.com" style="margin-bottom: 5px;" />
   </a>
 </div>
 
 <div align="center">
-<a href="https://coff.ee/hiusnguyen4" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<a href="coff.ee/hiusnguyen4" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
