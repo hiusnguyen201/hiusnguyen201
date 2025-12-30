@@ -40,8 +40,8 @@
   <img src="./gmail.png" width=32 height=32 alt="hiusnguyen201@gmail.com" style="margin-bottom: 5px;" />
   </a>
   
-  <a href="https://www.instagram.com/01nmh11" target="_blank">
-  <img src="./instagram.png" width=32 height=32 alt="hiusnguyen201@gmail.com" style="margin-bottom: 5px;" />
+  <a href="https://discord.gg/DpC6rNYc" target="_blank">
+  <img src="./discord.png" width=32 height=32 alt="hiusnguyen201@gmail.com" style="margin-bottom: 5px;" />
   </a>
   
   <a href="https://www.github.com/hiusnguyen201" target="_blank">
